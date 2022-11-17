@@ -1,2 +1,2 @@
-# oden-recipes
-Oden project recipes assignement
+# odin-recipes
+Odin project recipes assignement
